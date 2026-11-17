@@ -1,3 +1,3 @@
-# Purgare-Clean_oceans
+# Purgare: Clean the oceans
 
 TLE2 project.
